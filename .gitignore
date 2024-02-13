@@ -1,3 +1,7 @@
 # FreeCAD backup files:
 *.FCStd[0-9]
 *.FCBak
+
+# Prusa 3D-printer files:
+*.bgcode
+
