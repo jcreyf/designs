@@ -1,6 +1,5 @@
 ## Grinder Lid
 
-Custom made lid to close a manual grinding stone.  
+Custom made lid to close a stone grinding pot.  
 
 ![Solid model](GrinderLid_solid.jpg) 
-![Wire model](GrinderLid_wire.jpg)  
