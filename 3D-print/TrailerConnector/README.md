@@ -5,11 +5,11 @@ The main motivation to design this, was that the connector that came with the tr
 
 See pictures below...  
 
-![Solid model](TrailerConnector_sliced_solid.jpg) 
-![Front view](TrailerConnector_solid2.jpg)  
-![Back view](TrailerConnector_solid1.jpg)  
-![3D print](TrailerConnector_3Dprint.jpg)  
-![Connector out of the box](TrailerConnector_OutOfTheBox.jpg)  
-![Cover installed 1](TrailerConnector_CoverInstalled.jpg)  
-![Cover installed 2](TrailerConnector_CoverInstalled2.jpg)  
-![Hooked up](TrailerHookedUp.jpg)  
+![Solid model](./documentation/TrailerConnector_sliced_solid.jpg) 
+![Front view](./documentation/TrailerConnector_solid2.jpg)  
+![Back view](./documentation/TrailerConnector_solid1.jpg)  
+![3D print](./documentation/TrailerConnector_3Dprint.jpg)  
+![Connector out of the box](./documentation/TrailerConnector_OutOfTheBox.jpg)  
+![Cover installed 1](./documentation/TrailerConnector_CoverInstalled.jpg)  
+![Cover installed 2](./documentation/TrailerConnector_CoverInstalled2.jpg)  
+![Hooked up](./documentation/TrailerHookedUp.jpg)  
