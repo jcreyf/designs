@@ -8,3 +8,8 @@ See pictures below...
 ![Solid model](TrailerConnector_sliced_solid.jpg) 
 ![Front view](TrailerConnector_solid2.jpg)  
 ![Back view](TrailerConnector_solid1.jpg)  
+![3D print](TrailerConnector_3Dprint.jpg)  
+![Connector out of the box](TrailerConnector_OutOfTheBox.jpg)  
+![Cover installed 1](TrailerConnector_CoverInstalled.jpg)  
+![Cover installed 2](TrailerConnector_CoverInstalled2.jpg)  
+![Hooked up](TrailerHookedUp.jpg)  
