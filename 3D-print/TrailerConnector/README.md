@@ -5,6 +5,8 @@ The main motivation to design this, was that the connector that came with the tr
 
 See pictures below...  
 
+
+## The connector:
 ![Solid model](./documentation/TrailerConnector_sliced_solid.jpg) 
 ![Front view](./documentation/TrailerConnector_solid2.jpg)  
 ![Back view](./documentation/TrailerConnector_solid1.jpg)  
@@ -13,3 +15,10 @@ See pictures below...
 ![Cover installed 1](./documentation/TrailerConnector_CoverInstalled.jpg)  
 ![Cover installed 2](./documentation/TrailerConnector_CoverInstalled2.jpg)  
 ![Hooked up](./documentation/TrailerHookedUp.jpg)  
+
+
+## The connector holder:
+![Solid model](./documentation/TrailerConnector_Holder_solid.jpg) 
+![Wireframe model](./documentation/TrailerConnector_Holder_wireframe.jpg) 
+![Holder installed 1](./documentation/TrailerConnector_Holder_installed1.jpg) 
+![Holder installed 2](./documentation/TrailerConnector_Holder_installed2.jpg) 
