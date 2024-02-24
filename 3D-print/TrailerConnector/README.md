@@ -2,6 +2,7 @@
 
 Custom made cover for a standard 4-pin electrical connector for trailers.  
 The main motivation to design this, was that the connector that came with the trailer had all its 7 wires exposed to the elements and I wanted to put them in conduits and shield it all better.  
+I also designed a holder for the connector to house it when the trailer is not connected to the car.  
 
 See pictures below...  
 
