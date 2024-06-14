@@ -23,3 +23,4 @@ See pictures below...
 ![Wireframe model](./documentation/TrailerConnector_Holder_wireframe.jpg) 
 ![Holder installed 1](./documentation/TrailerConnector_Holder_installed1.jpg) 
 ![Holder installed 2](./documentation/TrailerConnector_Holder_installed2.jpg) 
+![Holder installed 3](./documentation/TrailerConnector_Holder_installed3.jpg) 
