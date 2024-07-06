@@ -3,3 +3,7 @@
 I have 8/3, 10/3 and 12/3 gauge, flat UF-B (underground feeder and branch-circuit) running on my property to feed all kinds of electrical devices like mini-splits, bandsaw and woodmill.  Those wires run against walls here and there and need to get fastened.  I didn't find good, strong fasteners that were big enough for these wires, so I decided to create my own fastener.  
 
 
+## The connector:
+![Solid model](./documentation/FlatWireClip_solid.jpg)
+![Wire view](./documentation/FlatWireClip_wire.jpg)
+
