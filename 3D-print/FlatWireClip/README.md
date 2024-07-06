@@ -6,10 +6,14 @@ I have 8/3, 10/3 and 12/3 gauge, flat UF-B (underground feeder and branch-circui
 The design is configured through a spreadsheet that easily allows adjustments to make the model fit any size flat wire.  
 
 ### 10-3 UF-B wire:
-![Solid model](./documentation/10-3_params.jpg)
+![10-3 specs](./documentation/10-3_params.jpg)
 
 
 ## The connector:
 ![Solid model](./documentation/FlatWireClip_solid.jpg)
 ![Wire view](./documentation/FlatWireClip_wire.jpg)
 
+
+## How to use:
+![ready for use](./documentation/FlatWireClip_ready.jpg)
+![installed](./documentation/FlatWireClip_installed.jpg)
