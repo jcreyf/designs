@@ -17,3 +17,11 @@ The design is configured through a spreadsheet that easily allows adjustments to
 ## How to use:
 ![ready for use](./documentation/FlatWireClip_ready.jpg)
 ![installed](./documentation/FlatWireClip_installed.jpg)
+![actual use](./documentation/FlatWireClip_usage1.jpg)
+![actual use](./documentation/FlatWireClip_usage2.jpg)
+
+
+## Print:
+![print](./documentation/FlatWireClip_print1.jpg)
+![print](./documentation/FlatWireClip_print2.jpg)
+
