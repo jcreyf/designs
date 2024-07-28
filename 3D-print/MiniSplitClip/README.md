@@ -7,4 +7,14 @@ I need a fastener to hold the lines and decided to fabricate a custom fastener.
 ## The fastener:
 ![Solid model](./documentation/MiniSplitClip_solid.jpg)
 ![Wire view](./documentation/MiniSplitClip_wire.jpg)
+![Wire view](./documentation/MiniSplitClips.jpg)
 
+
+## Printing:
+![Wire view](./documentation/MiniSplitClipPrinting.jpg)
+![Wire view](./documentation/MiniSplitClipPrinting.mp4)
+
+
+## Installation:
+![Wire view](./documentation/MiniSplitBeforeInstallingClips.jpg)
+![Wire view](./documentation/MiniSplitAfterInstallingClips.jpg)
