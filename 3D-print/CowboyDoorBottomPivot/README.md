@@ -14,5 +14,11 @@ The pieces missing were the pins on which the door sections pivot.  That's what 
 ![Printing](./documentation/CowboyDoorBottomPivot_printed.jpg)
 
 
-## Installed:
-![installed](./documentation/CowboyDoorBottomPivot_installed1.jpg)
+## Installing:
+![installing](./documentation/PartInstallation1.jpg)  
+![installing](./documentation/PartInstallation2.jpg)  
+![installing](./documentation/PartInstallation3.jpg)  
+![installing](./documentation/PartInstallation4.jpg)  
+![installing](./documentation/PartInstallation5.jpg)  
+![installing](./documentation/PartInstallation6.jpg)  
+![installed](./documentation/PartInstalled.mp4)  
