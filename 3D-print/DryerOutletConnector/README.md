@@ -6,4 +6,13 @@ The magnet ring and the vent need to be connected with a pipe but they don't exa
 Here, I made a very simple 3D print project to make them connect perfectly.  
 (note a 3 degree taper on the magnet side of the connector, slightly complicating things)  
 
-![Solid model](./documentation/DryerOutletConncetor_solid.jpg) 
+### Design:
+![Solid model](./documentation/DryerOutletConnector_solid.jpg) 
+
+### Print:
+![Print](./documentation/DryerOutletConnector_print.jpg) 
+
+### Installation:
+![Installation](./documentation/DryerOutletConnector_installation1.jpg) 
+![Installation](./documentation/DryerOutletConnector_installation2.jpg) 
+![Installed](./documentation/DryerOutletConnector_installed.jpg) 
