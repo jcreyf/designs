@@ -4,3 +4,6 @@ Custom made holder for my tablet and mobile phone to attach to my crosstrainer, 
 
 ![Solid model](./documentation/CrosstrainerMobileDeviceHolder_solid.jpg) 
 
+## Printed:  
+![Printed](./documentation/CrosstrainerMobileDeviceHolder_printed.jpg) 
+
