@@ -11,4 +11,3 @@ The audio amplifier and TV are mounted on a rollable stand that we can move arou
 ## The part:
 ![Solid model](./documentation/AudioBox_Complete.png)
 
-
