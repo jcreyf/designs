@@ -3,5 +3,7 @@
 This is a custom design for a tablet or phone holder in a Toyota Prius 2013.  
 
 ## The part:
-![Solid model](./documentation/CarTabletHolder_Complete.png)
+![Holder](./documentation/CarTabletHolder_Complete.png)
 
+#### With phone connector:
+![With phone connector](./documentation/CarTabletHolder_WithPhoneConnector.png)
